@@ -1,1 +1,1 @@
-# sharing_classassignment
+# Analysis of Infinite Square Potentials using Python
